@@ -13,7 +13,7 @@
   height: 6498px;
   display: flex;
   z-index: 1;
-  overflow: hidden;
+  overflow: auto;
   position: relative;
   align-items: flex-start;
   flex-shrink: 0;
